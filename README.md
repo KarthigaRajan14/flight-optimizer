@@ -1,4 +1,4 @@
-# ✈️ Flight Route Optimizer
+<img width="1453" height="810" alt="image" src="https://github.com/user-attachments/assets/8e1209f0-7e5d-4c55-9540-b741246fe8a8" /># ✈️ Flight Route Optimizer
 
 A smart Flight Route Optimizer that finds the shortest flight route using **Dijkstra's Algorithm** and predicts flight delays using **Machine Learning**.
 
@@ -21,8 +21,9 @@ A smart Flight Route Optimizer that finds the shortest flight route using **Dijk
 - JavaScript
 
 ## 📸 Screenshots
-### Login Page
-src/Login Page.png
+## Login Page
+![Login Page](src/login-page.png)
+
 ### Search-Route
 ![Search-Route](src/Search-Route.png)
 
