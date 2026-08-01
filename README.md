@@ -28,6 +28,8 @@ A smart Flight Route Optimizer that finds the shortest flight route using **Dijk
 ![Search-Route](src/Search-Route.png)
 ### ✈️ Route Results
 ![Result Page](src/Result_Page.png)
+### ⭐ Favorite Routes
+![Favorite Routes](src/Fav_Route.png)
 
 ## 🔮 Future Enhancements
 
